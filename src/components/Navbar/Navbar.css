@@ -1,0 +1,11 @@
+.Navbar{
+    background-color: black;
+    padding: 20px 35px;
+    font-size: 23px;
+    text-align: center;
+}
+.nav-name{
+    text-decoration: none;
+    color: #fff;
+    margin: 0 20px;
+}
